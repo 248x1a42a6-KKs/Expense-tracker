@@ -24,12 +24,18 @@ flutter build apk --release
 APK: build/app/outputs/flutter-apk/app-release.apk
 
 ## Team
-| Member | Parts built |
+| Member | 
 |---|---|
-| NAME 1 | |
-| NAME 2 | |
-| NAME 3 | |
+| K. Lokesh | |
+| K. Kiran | |
+
 
 ## Screenshots
-Add at least three in a docs/ folder and link them here.
 
+<img width="360" height="748" alt="image" src="https://github.com/user-attachments/assets/af4b0550-3e44-4178-ac42-7fddb4fe91a5" />
+
+<img width="360" height="748" alt="image" src="https://github.com/user-attachments/assets/0e80bed3-b5b2-4345-bfcd-2719bd48c5c6" />
+
+<img width="360" height="748" alt="image" src="https://github.com/user-attachments/assets/a6e12fbe-6cef-4f2f-b01d-82e236ee31fa" />
+
+<img width="360" height="748" alt="image" src="https://github.com/user-attachments/assets/f40beaf7-563f-4c34-9002-b14a4257b75c" />
