@@ -25,9 +25,8 @@ APK: build/app/outputs/flutter-apk/app-release.apk
 
 ## Team
 | Member | 
-|---|---|
-| K. Lokesh | |
-| K. Kiran | |
+| K. Lokesh |
+| K. Kiran |
 
 
 ## Screenshots
